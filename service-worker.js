@@ -1,5 +1,5 @@
 // Service Worker pour PWA
-const CACHE_NAME = 'mon-planning-v2';
+const CACHE_NAME = 'mon-planning-v3';
 const BASE_PATH = '/testapprentissage';
 
 self.addEventListener('install', (event) => {
